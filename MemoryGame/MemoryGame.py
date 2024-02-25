@@ -89,7 +89,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                 else:
                     Newrecord = saverecord.record
 
-                f = open("GiochinoMemory/saverecord.py", "w")
+                f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                 f.write("record = " + str(Newrecord))
@@ -118,7 +118,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                     else:
                         Newrecord = saverecord.record
 
-                    f = open("GiochinoMemory/saverecord.py", "w")
+                    f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                     f.write("record = " + str(Newrecord))
@@ -166,7 +166,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                 else:
                     Newrecord = saverecord.record
 
-                f = open("GiochinoMemory/saverecord.py", "w")
+                f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                 f.write("record = " + str(Newrecord))
@@ -195,7 +195,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                     else:
                         Newrecord = saverecord.record
 
-                    f = open("GiochinoMemory/saverecord.py", "w")
+                    f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                     f.write("record = " + str(Newrecord))
@@ -243,7 +243,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                 else:
                     Newrecord = saverecord.record
 
-                f = open("GiochinoMemory/saverecord.py", "w")
+                f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                 f.write("record = " + str(Newrecord))
@@ -272,7 +272,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                     else:
                         Newrecord = saverecord.record
 
-                    f = open("GiochinoMemory/saverecord.py", "w")
+                    f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                     f.write("record = " + str(Newrecord))
@@ -320,7 +320,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                 else:
                     Newrecord = saverecord.record
 
-                f = open("GiochinoMemory/saverecord.py", "w")
+                f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                 f.write("record = " + str(Newrecord))
@@ -349,7 +349,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                     else:
                         Newrecord = saverecord.record
 
-                    f = open("GiochinoMemory/saverecord.py", "w")
+                    f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                     f.write("record = " + str(Newrecord))
@@ -397,7 +397,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                 else:
                     Newrecord = saverecord.record
 
-                f = open("GiochinoMemory/saverecord.py", "w")
+                f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                 f.write("record = " + str(Newrecord))
@@ -426,7 +426,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                     else:
                         Newrecord = saverecord.record
 
-                    f = open("GiochinoMemory/saverecord.py", "w")
+                    f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                     f.write("record = " + str(Newrecord))
@@ -474,7 +474,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                 else:
                     Newrecord = saverecord.record
 
-                f = open("GiochinoMemory/saverecord.py", "w")
+                f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                 f.write("record = " + str(Newrecord))
@@ -503,7 +503,7 @@ def menu(punteggio, record, letterEasy,letterNormal, letterDif, numberEasy, numb
                     else:
                         Newrecord = saverecord.record
 
-                    f = open("GiochinoMemory/saverecord.py", "w")
+                    f = open("MemoryGame/saverecord.py", "w")
                     # apre il file saverecord.py dove viene salvato il punteggio più alto
 
                     f.write("record = " + str(Newrecord))
